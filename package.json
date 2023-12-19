@@ -1,6 +1,9 @@
 {
   "name": "gals",
   "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "global AsyncLocalStorage",
   "scripts": {
     "lint": "eslint src test --ext ts",

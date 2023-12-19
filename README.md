@@ -1,5 +1,17 @@
 # gals
 
+[![NPM version][npm-image]][npm-url]
+[![Node.js CI](https://github.com/node-modules/gals/actions/workflows/nodejs.yml/badge.svg)](https://github.com/node-modules/gals/actions/workflows/nodejs.yml)
+[![Test coverage][codecov-image]][codecov-url]
+[![npm download][download-image]][download-url]
+
+[npm-image]: https://img.shields.io/npm/v/gals.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/gals
+[codecov-image]: https://codecov.io/github/node-modules/gals/coverage.svg?branch=master
+[codecov-url]: https://codecov.io/github/node-modules/gals?branch=master
+[download-image]: https://img.shields.io/npm/dm/gals.svg?style=flat-square
+[download-url]: https://npmjs.org/package/gals
+
 global AsyncLocalStorage
 
 ## Install
