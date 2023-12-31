@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/node-modules/gals/compare/v1.0.1...v1.0.2) (2023-12-31)
+
+
+### Bug Fixes
+
+* support old Node.js version ([#1](https://github.com/node-modules/gals/issues/1)) ([544b511](https://github.com/node-modules/gals/commit/544b511c43e55341c9d1af037d552839b3190828))
+
 ## [1.0.1](https://github.com/node-modules/gals/compare/v1.0.0...v1.0.1) (2023-12-19)
 
 
